@@ -317,6 +317,26 @@
             bindings = <&kp KP_PLUS>;
             key-positions = <18 19 20>;
         };
+
+        scroll_up {
+            bindings = <&msc SCRL_UP>;
+            key-positions = <19 22>;
+        };
+
+        scroll_down {
+            bindings = <&msc SCRL_DOWN>;
+            key-positions = <31 34>;
+        };
+
+        scroll_left {
+            bindings = <&msc SCRL_LEFT>;
+            key-positions = <31 22>;
+        };
+
+        scroll_right {
+            bindings = <&msc SCRL_RIGHT>;
+            key-positions = <34 19>;
+        };
     };
 
     keymap {
