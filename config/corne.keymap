@@ -300,6 +300,7 @@
         minus {
             bindings = <&kp KP_MINUS>;
             key-positions = <18 19>;
+            layers = <0 2 3>;
         };
 
         underscore {
@@ -310,6 +311,11 @@
         equal {
             bindings = <&kp KP_EQUAL>;
             key-positions = <6 7>;
+        };
+
+        plus {
+            bindings = <&kp KP_PLUS>;
+            key-positions = <18 19 20>;
         };
     };
 
@@ -374,7 +380,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &msc SCRL_LEFT  &msc SCRL_DOWN  &msc SCRL_UP  &msc SCRL_RIGHT  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_UP  &mmv MOVE_RIGHT  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans    &mac_copy       &mac_cut        &mac_paste    &trans           &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &mac_paste      &mac_copy       &mac_cut      &trans           &trans  &trans
                         &trans  &trans  &trans    &mkp LCLK       &mkp RCLK       &mkp MCLK
             >;
         };
