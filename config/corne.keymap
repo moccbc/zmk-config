@@ -315,7 +315,7 @@
 
         plus {
             bindings = <&kp KP_PLUS>;
-            key-positions = <18 19 20>;
+            key-positions = <19 7>;
         };
 
         scroll_up {
