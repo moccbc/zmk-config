@@ -361,8 +361,7 @@
 
         at {
             bindings = <&kp AT>;
-            key-positions = <3 4>;
-            timeout-ms = <1>;
+            key-positions = <15 16>;
         };
 
         ampersand {
