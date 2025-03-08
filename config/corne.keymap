@@ -385,12 +385,12 @@
 
         forward_slash {
             bindings = <&kp SLASH>;
-            key-positions = <26 15 4>;
+            key-positions = <15 4>;
         };
 
         back_slash {
             bindings = <&kp BACKSLASH>;
-            key-positions = <7 20 33>;
+            key-positions = <7 20>;
         };
 
         left_brace {
