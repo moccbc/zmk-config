@@ -340,7 +340,7 @@
 
         carat {
             bindings = <&kp CARET>;
-            key-positions = <19 8 21>;
+            key-positions = <8 21>;
         };
 
         exclamation {
@@ -370,7 +370,7 @@
 
         at {
             bindings = <&kp AT>;
-            key-positions = <2 14>;
+            key-positions = <2 3>;
         };
 
         ampersand {
