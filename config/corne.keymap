@@ -370,7 +370,7 @@
 
         at {
             bindings = <&kp AT>;
-            key-positions = <2 3>;
+            key-positions = <3 4>;
         };
 
         ampersand {
