@@ -366,52 +366,52 @@
 
         ampersand {
             bindings = <&kp AMPERSAND>;
-            key-positions = <7 9>;
+            key-positions = <7 9 20>;
         };
 
         pipe {
             bindings = <&kp PIPE>;
-            key-positions = <31 33>;
+            key-positions = <31 33 20>;
         };
 
         forward_slash {
             bindings = <&kp SLASH>;
-            key-positions = <15 4>;
+            key-positions = <15 4 14>;
         };
 
         back_slash {
             bindings = <&kp BACKSLASH>;
-            key-positions = <7 20>;
+            key-positions = <7 20 21>;
         };
 
         left_brace {
             bindings = <&kp LEFT_BRACE>;
-            key-positions = <13 14>;
+            key-positions = <13 14 15>;
         };
 
         right_brace {
             bindings = <&kp RIGHT_BRACE>;
-            key-positions = <21 22>;
+            key-positions = <21 22 20>;
         };
 
         left_bracket {
             bindings = <&kp LEFT_BRACKET>;
-            key-positions = <25 26>;
+            key-positions = <25 26 15>;
         };
 
         right_bracket {
             bindings = <&kp RIGHT_BRACKET>;
-            key-positions = <33 34>;
+            key-positions = <33 34 20>;
         };
 
         left_paren {
             bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <1 2>;
+            key-positions = <1 2 15>;
         };
 
         right_paren {
             bindings = <&kp RIGHT_PARENTHESIS>;
-            key-positions = <9 10>;
+            key-positions = <9 10 20>;
         };
 
         grave {
