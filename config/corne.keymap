@@ -416,7 +416,7 @@
 
         grave {
             bindings = <&kp GRAVE>;
-            key-positions = <20 33>;
+            key-positions = <19 32>;
         };
 
         tilde {
