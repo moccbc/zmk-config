@@ -356,7 +356,7 @@
 
         octothrope {
             bindings = <&kp HASH>;
-            key-positions = <15 14 4>;
+            key-positions = <15 5 16>;
         };
 
         at {
