@@ -356,22 +356,22 @@
 
         octothrope {
             bindings = <&kp HASH>;
-            key-positions = <5 16 15>;
+            key-positions = <15 14 4>;
         };
 
         at {
             bindings = <&kp AT>;
-            key-positions = <15 16 29>;
+            key-positions = <15 14 28>;
         };
 
         ampersand {
             bindings = <&kp AMPERSAND>;
-            key-positions = <9 23 22>;
+            key-positions = <22 8 21>;
         };
 
         pipe {
             bindings = <&kp PIPE>;
-            key-positions = <33 23 22>;
+            key-positions = <22 32 21>;
         };
 
         forward_slash {
@@ -421,7 +421,7 @@
 
         tilde {
             bindings = <&kp TILDE>;
-            key-positions = <13 2 15>;
+            key-positions = <14 3 16>;
         };
     };
 
