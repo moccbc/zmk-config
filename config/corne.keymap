@@ -331,7 +331,7 @@
 
         carat {
             bindings = <&kp CARET>;
-            key-positions = <21 10 23>;
+            key-positions = <31 20 33>;
         };
 
         exclamation {
