@@ -341,12 +341,12 @@
 
         dollar {
             bindings = <&kp DOLLAR>;
-            key-positions = <13 14 27>;
+            key-positions = <13 14 3>;
         };
 
         percent {
             bindings = <&kp PERCENT>;
-            key-positions = <13 14 3>;
+            key-positions = <13 14 27>;
         };
 
         asterisk {
