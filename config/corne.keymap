@@ -423,6 +423,21 @@
             bindings = <&kp TILDE>;
             key-positions = <14 3 16>;
         };
+
+        control_c {
+            bindings = <&kp LC(C)>;
+            key-positions = <24 27 36>;
+        };
+
+        control_v {
+            bindings = <&kp LC(V)>;
+            key-positions = <24 28 36>;
+        };
+
+        control_d {
+            bindings = <&kp LC(D)>;
+            key-positions = <24 15 36>;
+        };
     };
 
     keymap {
